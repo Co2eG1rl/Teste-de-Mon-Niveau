@@ -1,5 +1,7 @@
 # Teste-de-Mon-Niveau
 Réponses Aux Questions
+
+
 Qu'est-ce que le développement web, et pourquoi est-il essentiel dans le contexte de l'internet?
 
 .LE DÉVELOPPEMENT WEB est un processus de création . IL comprend la conception,la programmation et le développement de sites web ,d'applications,de blog,etc                                                                     IL est essentiel dans le contexte de l'internet car il permet qu'un contenu soit mis en ligne et atteigne ses lecteurs.
@@ -21,4 +23,5 @@ Connaissez-vous React et Node.js ? Si oui, donnez une brève description de ce q
 
 
 Pourquoi voulez-vous apprendre le développement web, et que souhaitez-vous réaliser en acquérant des compétences en HTML, CSS, JavaScript, React et Node.js ?
+ 
 je veux apprendre le développement web car c'est un domaine en perpétuelle évolution et aussi pour la diversité professionnelle.Apres ma formation je souhaiterai être une REINE 👑 WEB c'est à dire être capable de créer un un site web,maniermanié les données et le code comme personne,être maître du langage informatique ,transformer un projet client en un site web ou une application.
